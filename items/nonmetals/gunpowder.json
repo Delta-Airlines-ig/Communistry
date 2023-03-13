@@ -1,6 +1,0 @@
-type: item
-name: gunpowder
-description: used to make rudementry explosives, bullets, and artillery shells. do not light on fire.
-explosiveness:100
-flammability:100
-color: 333333ff
