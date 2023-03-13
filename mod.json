@@ -1,0 +1,8 @@
+name: "communistry"
+displayName: "Communistry!"
+author: DeltaV
+description: "soviet industry and weapons in mindustry (development started before the invasion of ukrain, this has nothing to do with current events)"
+version: "1.0"
+minGameVersion: "136"
+dependencies: []
+hidden: false
