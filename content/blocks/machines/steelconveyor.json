@@ -1,0 +1,11 @@
+type: Conveyor
+name: steel conveyor
+health: 640
+requirements: [
+  copper/2
+  mechanicalparts/1
+  steel/1
+]
+category: distribution
+speed: 0.13
+displayedSpeed: 20

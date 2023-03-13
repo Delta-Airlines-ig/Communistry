@@ -1,0 +1,22 @@
+type: genericCrafter
+name: bullet press
+craftTime: 20
+size: 2
+hasPower: true
+hasLiquids: false
+consumes: {
+  items: {
+    items: [
+      brass/3
+    ]
+  }
+  power: 1
+}
+craftEffect: smokeCloud
+requirements: [
+  iron/30
+  stonebrick/15
+
+]
+category: crafting
+outputItem: bulletcasing/8

@@ -1,0 +1,6 @@
+type: OreBlock
+variants: 2
+itemDrop: stone
+playerUnmineable: false
+needsSurface:true
+oreDefault:true

@@ -1,0 +1,36 @@
+type:mech
+name:rifle solder
+health: 40
+armor:5
+speed: 0.9
+drag: 0.3
+accel: 0.5
+rotateSpeed: 6
+engineSize:0
+targetGround:true
+drawCell:false
+circleTarget:true
+outlines:false
+legLength:0
+size:2
+hitsize:20
+weapons: [
+  {
+	  name: 7.62mm gun
+    x: -1
+    y: 0
+    recoil: 1
+    reload: 10
+    shake: 0
+	shotDelay: 10
+    bullet: {
+      type: standardCopper
+      damage: 2
+	  speed: 23
+	  lifetime: 5
+	  inaccuracy:3
+	   width: 1
+	height: 2
+    }
+  }
+  ]

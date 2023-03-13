@@ -1,0 +1,6 @@
+type: OreBlock
+variants: 2
+itemDrop: sulfur
+playerUnmineable: false
+needsSurface:true
+oreDefault:true

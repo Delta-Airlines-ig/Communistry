@@ -1,0 +1,31 @@
+type: ItemTurret
+name: M1938 AntiAircraft Gun
+targetGround: false
+outlines:false
+health: 1500
+size: 2
+inaccuracy: 3
+reload: 120
+shots: 1
+recoilAmount: 10
+shootCone: 25
+rotateSpeed: 45
+range: 1000
+targetAir: true
+ammoTypes: {
+	largeammunition: {
+		type:BasicBulletType
+		speed: 25
+		damage: 60
+		shootEffect: shootBig
+		collideTerrain:false
+		lifetime:500
+	}
+}
+requirements: [
+  copper/50
+  iron/150
+  steel/150
+  mechanicalparts/5
+]
+category: turret

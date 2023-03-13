@@ -1,0 +1,24 @@
+type: genericCrafter
+name:steel press
+craftTime: 45
+size: 2
+hasPower: true
+hasLiquids: false
+consumes: {
+  items: {
+    items: [
+      steel/1
+    ]
+  }
+  power: 1
+}
+craftEffect: smokeCloud
+requirements: [
+  stonebrick/75
+  lead/50
+  iron/150
+  steel/50
+
+]
+category: crafting
+outputItem: steelplate/1

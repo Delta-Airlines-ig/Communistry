@@ -1,0 +1,24 @@
+type: genericCrafter
+name:steel smelter
+craftTime: 45
+size: 2
+hasPower: true
+hasLiquids: false
+consumes: {
+  items: {
+    items: [
+      coal/2
+      iron/6
+    ]
+  }
+  power: 2.5
+}
+craftEffect: smokeCloud
+requirements: [
+  stonebrick/100
+  lead/50
+  iron/200
+
+]
+category: crafting
+outputItem: steel/2

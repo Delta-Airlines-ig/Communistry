@@ -1,0 +1,23 @@
+type: genericCrafter
+name:stonecutter
+craftTime: 70
+size: 2
+hasPower: true
+hasLiquids: false
+consumes: {
+  items: {
+    items: [
+      stone/5
+    ]
+  }
+  power: 2.5
+}
+craftEffect: smokeCloud
+requirements: [
+  iron/200
+  lead/50
+  copper/100
+
+]
+category: crafting
+outputItem: stonebrick/2

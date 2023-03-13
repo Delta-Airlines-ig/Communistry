@@ -1,0 +1,23 @@
+type: genericCrafter
+name: gear press
+craftTime: 60
+size: 2
+hasPower: true
+hasLiquids: false
+consumes: {
+  items: {
+    items: [
+      steel/3
+      steelplate/1
+    ]
+  }
+  power: 2
+}
+craftEffect: smokeCloud
+requirements: [
+  iron/25
+  stonebrick/8
+  steel/10
+]
+category: crafting
+outputItem: mechanicalparts/2

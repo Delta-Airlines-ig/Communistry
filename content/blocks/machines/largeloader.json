@@ -1,0 +1,22 @@
+type: genericCrafter
+name: large bullet loader
+craftTime: 30
+size: 2
+hasPower: true
+hasLiquids: false
+consumes: {
+  items: {
+    items: [
+      largeshell/4
+	  gunpowder/8
+	  steel/8
+    ]
+  }
+}
+craftEffect: smokeCloud
+requirements: [
+  iron/25
+  stonebrick/6
+]
+category: crafting
+outputItem:largeammunition/8

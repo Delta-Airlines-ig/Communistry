@@ -1,0 +1,11 @@
+type: Wall
+name:large stone wall
+size: 2
+health: 2500
+category:defense
+requirements: [
+	stonebrick/50
+]
+destructible:true
+buildCostMultiplier:4
+chanceDeflect:0

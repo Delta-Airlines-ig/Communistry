@@ -1,0 +1,11 @@
+type: Wall
+name:stone wall
+size: 1
+health: 1500
+category:defense
+requirements: [
+	stonebrick/25
+]
+destructible:true
+buildCostMultiplier:4
+chanceDeflect:0

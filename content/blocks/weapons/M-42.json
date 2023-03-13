@@ -1,0 +1,31 @@
+type: ItemTurret
+name: M-42 AntiTank gun
+targetGround: true
+outlines:false
+health: 1500
+size: 2
+inaccuracy: 5
+reload: 120
+shots: 1
+recoilAmount: 10
+shootCone: 25
+rotateSpeed: 10
+range:800
+targetAir: false
+ammoTypes: {
+	largeammunition: {
+		type:BasicBulletType
+		speed: 25
+		damage: 120
+		shootEffect: shootBig
+		collideTerrain:false
+		lifetime:500
+	}
+}
+requirements: [
+  copper/50
+  iron/100
+  steel/150
+  mechanicalparts/5
+]
+category: turret

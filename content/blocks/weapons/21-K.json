@@ -1,0 +1,31 @@
+type: ItemTurret
+name: 21-K AntiAirctraft Gun
+targetGround: false
+outlines:false
+health: 2000
+size: 2
+inaccuracy: 5
+reload: 120
+shots: 1
+recoilAmount: 10
+shootCone: 25
+rotateSpeed: 45
+range: 1000
+targetAir: true
+ammoTypes: {
+	ammunition: {
+		type:BasicBulletType
+		speed: 25
+		damage: 60
+		shootEffect: shootBig
+		collideTerrain:false
+		lifetime:500
+	}
+}
+requirements: [
+  copper/50
+	iron/100
+	steel/75
+    mechanicalparts/25
+]
+category: turret

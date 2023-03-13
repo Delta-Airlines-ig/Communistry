@@ -1,0 +1,22 @@
+type: genericCrafter
+name: large bullet press
+craftTime: 20
+size: 2
+hasPower: true
+hasLiquids: false
+consumes: {
+  items: {
+    items: [
+      steel/10
+    ]
+  }
+  power: 1
+}
+craftEffect: smokeCloud
+requirements: [
+  iron/30
+  stonebrick/18
+
+]
+category: crafting
+outputItem: largeshell/8

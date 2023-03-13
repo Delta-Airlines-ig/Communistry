@@ -1,0 +1,39 @@
+type: ItemTurret
+name: 122mm howitzer m1909/37
+targetGround: true
+outlines:false
+health: 1000
+size: 2
+inaccuracy: 5
+reload: 500
+shots: 1
+recoilAmount: 10
+shootCone: 25
+rotateSpeed: 10
+range: 1000
+minRange:150
+targetAir: false
+ammoTypes: {
+	largeammunition: {
+		type:ArtilleryBulletType
+        trailMult:5
+		speed: 25
+		damage: 250
+		shootEffect: shootBig
+		collideTerrain:false
+		splashDamage:500
+		lifetime:500
+		hitShake:3
+		impact:true
+		knockback:5
+		splashdamage:250
+		splashDamageRadius:25
+	}
+}
+requirements: [
+  copper/50
+	iron/150
+	steel/300
+    mechanicalparts/25
+]
+category: turret

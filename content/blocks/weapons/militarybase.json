@@ -1,0 +1,14 @@
+type: CoreBlock
+name:Military base
+unitType: gamma
+health: 35000
+unitCapModifier: 225
+itemCapacity: 125000
+size: 10
+category: effect
+thrusterLength: 20
+requirements: [
+  stonebrick/20000
+  steel/18000
+  solder/2000
+]

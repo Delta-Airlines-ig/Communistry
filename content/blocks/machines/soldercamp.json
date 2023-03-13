@@ -1,0 +1,16 @@
+type: genericCrafter
+name:soviet military training camp
+craftTime: 120
+size: 2
+hasPower: true
+hasLiquids: false
+consumes: {
+  power: 1
+}
+requirements: [
+  iron/85
+  stonebrick/75
+
+]
+category: crafting
+outputItem: solder/1

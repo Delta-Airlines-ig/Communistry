@@ -1,0 +1,49 @@
+type: UnitFactory
+name:training grounds
+size: 2
+consumes: {
+  power: 5
+}
+plans: [
+  {
+    unit: shotguntroop
+    time: 120
+    requirements: [
+      weapons/2
+      solder/1
+	  supplies/1
+    ]
+  }
+  {
+    unit: rifletroop
+    time: 180
+    requirements: [
+      weapons/2
+      solder/1
+	  supplies/1
+    ]
+  }
+  {
+    unit: rockettroop
+    time: 240
+    requirements: [
+      solder/1
+      weapons/3
+	  supplies/1
+    ]
+  }
+  {
+    unit: assaulttroop
+    time: 120
+    requirements: [
+      solder/1
+      weapons/2
+	  supplies/1
+    ]
+  }
+]
+requirements: [
+  iron/40
+  stonebrick/25
+]
+category: units

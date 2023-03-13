@@ -1,0 +1,71 @@
+type:mech
+name:KV-2 tank
+health: 750
+armor:150
+speed: 0.63
+drag: 0.3
+accel: 0.5
+rotateSpeed: 6
+engineSize:0
+targetGround:true
+drawCell:false
+circleTarget:true
+outlines:false
+legLength:0
+size:2
+hitsize:20
+weapons: [
+  { 
+	  name: 152 mm howitzer
+    x: 0
+    y: 0
+    recoil: 2
+    reload: 400
+    shake: 10 
+    bullet: {
+      type: standardDense
+      damage: 200
+	  speed: 23
+	  lifetime: 6
+	  inaccuracy:2
+  width: 14
+  height: 20
+    }
+  }
+      {
+	  name: 7.62mm gun
+    x: -1
+    y: 0
+    recoil: 0
+    reload: 10
+    shake: 1
+	shotdelay:10
+    bullet: {
+      type: standardCopper
+      damage: 3
+	  speed: 23
+	  lifetime: 5
+	  inaccuracy:2
+  width: 1
+  height: 2
+    }
+  }
+      {
+	  name: 7.62mm gun
+    x: -1
+    y: 0
+    recoil: 0
+    reload: 10
+    shake: 1
+	shotdelay:15
+    bullet: {
+      type: standardCopper
+      damage: 3
+	  speed: 23
+	  lifetime: 5
+	  inaccuracy:2
+  width: 1
+  height: 2
+    }
+  }
+  ]

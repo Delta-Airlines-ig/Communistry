@@ -1,0 +1,31 @@
+type: ItemTurret
+name: M1930 1-K AntiTank gun
+targetGround: true
+outlines:false
+health: 750
+size: 2
+inaccuracy: 5
+reload: 140
+shots: 1
+recoilAmount: 10
+shootCone: 25
+rotateSpeed: 10
+range: 500
+targetAir: false
+ammoTypes: {
+	ammunition: {
+		type:BasicBulletType
+		speed: 25
+		damage: 250
+		shootEffect: shootBig
+		collideTerrain:false
+		lifetime:500
+	}
+}
+requirements: [
+  copper/50
+	iron/200
+	steel/100
+	mechanicalparts/30
+]
+category: turret

@@ -1,0 +1,23 @@
+type: genericCrafter
+name: carbon seperator
+craftTime: 50
+size: 2
+hasPower: true
+hasLiquids: false
+consumes: {
+  items: {
+    items: [
+      coal/3
+    ]
+  }
+  power: 3
+}
+craftEffect: smokeCloud
+requirements: [
+  iron/50
+  stonebrick/25
+  steel/5
+
+]
+category: crafting
+outputItem: carbon/2

@@ -1,0 +1,23 @@
+type: genericCrafter
+name: brass smelter
+craftTime: 50
+size: 2
+hasPower: true
+hasLiquids: false
+consumes: {
+  items: {
+    items: [
+      zinc/5
+	  copper/5
+    ]
+  }
+  power: 2.5
+}
+craftEffect: smokeCloud
+requirements: [
+  iron/100
+  stonebrick/25
+
+]
+category: crafting
+outputItem: brass/3
