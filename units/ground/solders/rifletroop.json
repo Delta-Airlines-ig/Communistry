@@ -1,0 +1,36 @@
+type:mech
+name:rifleman
+health: 40
+armor:4
+speed: 0.85
+drag: 0.3
+accel: 0.5
+rotateSpeed: 6
+engineSize:0
+targetGround:true
+drawCell:false
+circleTarget:true
+outlines:false
+legLength:0
+size:2
+hitsize:20
+weapons: [
+  {
+	  name: sniper rifle
+    x: -1
+    y: 0
+    recoil: 1
+    reload: 60
+    shake: 0
+	shotDelay:0
+    bullet: {
+      type: BasicBulletType
+      damage: 30
+	  speed: 25
+	  lifetime: 25
+	  inaccuracy:1
+	  width: 1
+	  height: 2
+    }
+  }
+  ]

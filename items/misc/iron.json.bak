@@ -1,0 +1,9 @@
+type: item
+name: iron
+description: iron
+research: {
+  parent: copper
+  requirements: [
+    
+  ]
+}

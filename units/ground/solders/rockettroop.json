@@ -1,0 +1,42 @@
+type:mech
+name:rocket launcher solder
+health: 40
+armor:6
+speed: 0.8
+drag: 0.3
+accel: 0.5
+rotateSpeed: 6
+engineSize:0
+targetGround:true
+drawCell:false
+circleTarget:true
+outlines:false
+legLength:0
+size:2
+hitsize:20
+weapons: [
+  {
+	  name: rocketlauncher
+    x: -1
+    y: 0
+    recoil: 1
+    reload: 60
+    shake: 0
+	shotDelay:0
+    bullet: {
+      type: MissileBulletType
+      damage: 80
+	  speed: 5
+	  lifetime: 25
+	  inaccuracy:3
+	   width: 4
+	height: 6
+	weaveMag:0.1
+	weaveScale:4
+	splashDamage:50
+	splashDamageRadius:4
+	bulletSprite:missileshot
+	trailColor:ffffff
+    }
+  }
+  ]
