@@ -31,7 +31,7 @@ speed: 15
 flying: true
 drag: 0.3
 accel: 0.5
-rotateSpeed: 6
+rotateSpeed: 0.1
 engineSize:0
 omniMovement: false
 targetAir: false
