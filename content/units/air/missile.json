@@ -16,7 +16,7 @@ weapons: [
 	damage: 200
     	shootEffect: shootBig
 	collideTerrain:false
-	lifetime:500
+	lifetime:5
     	killShooter:true
     	splashDamage:50
     	makeFire:true
