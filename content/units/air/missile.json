@@ -13,16 +13,16 @@ weapons: [
     bullet: {
 	type:ExplosionBulletType
 	speed: 0
-	damage: 500
+	damage: 200
     	shootEffect: shootBig
 	collideTerrain:false
 	lifetime:500
     	killShooter:true
-    	splashDamage:150
+    	splashDamage:50
     	makeFire:true
-    	incendAmount:50
-    	splashDamageRadius:30
-    	incendSpread:15
+    	incendAmount:2
+    	splashDamageRadius:75
+    	incendSpread:30
     }
   }
 ]
