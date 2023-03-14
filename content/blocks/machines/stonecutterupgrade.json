@@ -1,7 +1,7 @@
 type: genericCrafter
-name:high efficiency stonecutter
-craftTime: 40
-size: 2
+name:large stone workshop
+craftTime: 35
+size: 3
 hasPower: true
 hasLiquids: false
 consumes: {
