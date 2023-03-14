@@ -7,32 +7,37 @@ weapons: [
     x: 1
     y: 0
     recoil: 0
-    reload: 10
+    reload: 100
     shake: 1
 	shotDelay: 10
     bullet: {
-      type: standardCopper
-      damage: 5
-	  speed: 23
-	  lifetime: 5
-	  inaccuracy:2
-	  drawSize:20
-	  hitSize:2
+	type:ExplosionBulletType
+	speed: 0
+	damage: 500
+    	shootEffect: shootBig
+	collideTerrain:false
+	lifetime:500
+    	killShooter:true
+    	splashDamage:150
+    	makeFire:true
+    	incendAmount:50
+    	splashDamageRadius:30
+    	incendSpread:15
     }
   }
 ]
 health: 75
-speed: 2.5
+speed: 15
 flying: true
 drag: 0.3
 accel: 0.5
 rotateSpeed: 6
 engineSize:0
 omniMovement: false
-targetAir: true
+targetAir: false
 targetGround:true
 drawCell:false
 onTitleScreen:true
 outlines:false
-circleTarget:true
+circleTarget:false
 Footer
