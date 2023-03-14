@@ -1,7 +1,6 @@
 type: flying
 name: missile
 weapons: [
-  }
     {
 	  name: on board explosives
     x: 1
@@ -41,4 +40,3 @@ onTitleScreen:true
 outlines:false
 circleTarget:false
 lowAltitude:true
-Footer
