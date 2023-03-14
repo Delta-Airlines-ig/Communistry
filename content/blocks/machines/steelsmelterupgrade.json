@@ -1,14 +1,14 @@
 type: genericCrafter
-name: high efficiency steel smelter
-craftTime: 75
-size: 2
+name: large steelworks
+craftTime: 40
+size: 3
 hasPower: true
 hasLiquids: false
 consumes: {
   items: {
     items: [
       coal/1
-      iron/5
+      iron/3
     ]
   }
   power: 2
