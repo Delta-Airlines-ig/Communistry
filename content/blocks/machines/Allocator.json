@@ -1,4 +1,5 @@
 type: Router 
+size:3
 name: Allocator
 speed: 10
 health: 280
