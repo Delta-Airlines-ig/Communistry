@@ -40,4 +40,5 @@ drawCell:false
 onTitleScreen:true
 outlines:false
 circleTarget:false
+lowAltitude:true
 Footer
