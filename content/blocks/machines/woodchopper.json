@@ -1,11 +1,11 @@
-type: WallCrafter
+type: AttributeCrafter
 name: test wood chopping area thing idk
 attribute: wood
 category: production
 size: 2
 scaledHealth: 20
-drillTime: 180
-output: wood
+baseEfficiency:0
+outputItem: wood
 requirements: [
         stonebrick/20
     ]
