@@ -40,3 +40,4 @@ onTitleScreen:true
 outlines:false
 circleTarget:false
 lowAltitude:true
+hovering:true
