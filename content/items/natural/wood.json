@@ -1,0 +1,4 @@
+type: item
+name: wood
+description: cheap building material, useful for many structures. flammable.
+flammability:0.5
