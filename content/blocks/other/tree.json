@@ -1,0 +1,6 @@
+{
+    type: "StaticWall",
+    itemDrop: "wood",
+    variants: 0
+}
+//yes i yoinked this from aeyama
