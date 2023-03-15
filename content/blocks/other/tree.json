@@ -1,6 +1,4 @@
-{
-    type: "StaticWall",
-    itemDrop: "wood",
+    type: floor
+    itemDrop: wood
     variants: 0
-}
-//yes i yoinked this from aeyama
+    attributes: wood
