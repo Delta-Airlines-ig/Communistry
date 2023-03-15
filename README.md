@@ -7,4 +7,4 @@ also, this mod isnt really meant to be used in a normal game because progression
 
 also if you want to contact me for some reason (help with spriting?) then my discord is DeltaV#5205
 
-also also written in json/hjson btw
+also also this is my first mod so dont expect anything professional or whatever
