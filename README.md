@@ -9,4 +9,4 @@ also if you want to contact me for some reason (help with spriting?) then my dis
 
 also also this is my first mod so dont expect anything professional or whatever
 
-also also also why does github think this is in java? i wrote 0% of this in java
+
