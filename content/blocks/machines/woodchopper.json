@@ -1,6 +1,6 @@
 type: AttributeCrafter
 name: test wood chopping area thing idk
-attribute: wood
+//attribute: wood
 category: production
 size: 2
 scaledHealth: 20
