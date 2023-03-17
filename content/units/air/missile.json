@@ -1,5 +1,5 @@
 type: MissileUnitType
-name: missile
+name: Cruise missile
 aiController: SuicideAI
 weapons: [
     {
