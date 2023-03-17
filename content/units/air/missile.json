@@ -1,6 +1,6 @@
 type: flying
 name: Cruise missile
-aiController: SuicideAI
+//aiController: SuicideAI
 weapons: [
     {
 	  name: on board explosives
