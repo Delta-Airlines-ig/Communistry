@@ -2,9 +2,9 @@ type: ParticleWeather
 name: Blizzard
 color: dedede
 noiseColor: a6a6a6
-sizeMax: 10
-sizeMin: 5
-density: 100
+sizeMax: 5
+sizeMin: 2
+density: 500
 status: blizzard
 useWindVector: true
 drawNoise: true
