@@ -5,7 +5,7 @@ particleRegion: "rand"
 sizeMax: 25
 sizeMin: 1
 density: 3000
-status: blizzard
+status: Communistry-blizzard
 useWindVector: true
 drawNoise: true
 opacityMultiplier: 0.85
