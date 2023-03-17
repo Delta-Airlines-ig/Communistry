@@ -4,7 +4,7 @@ color: dedede
 noiseColor: a6a6a6
 sizeMax: 10
 sizeMin: 5
-density: 10000
+density: 100
 status: blizzard
 useWindVector: true
 drawNoise: true
