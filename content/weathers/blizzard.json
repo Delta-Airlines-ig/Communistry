@@ -1,4 +1,5 @@
 type: ParticleWeather
+name: Blizzard
 color: dedede
 noiseColor: a6a6a6
 sizeMax: 10
