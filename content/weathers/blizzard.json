@@ -4,11 +4,11 @@ color: dedede
 noiseColor: a6a6a6
 sizeMax: 5
 sizeMin: 2
-density: 500
+density: 250
 status: blizzard
 useWindVector: true
 drawNoise: true
-opacityMultiplier: 0.85
+opacityMultiplier: 0.95
 baseSpeed: 6.1
 //sound: blizzardwind
 soundVol: 0.65
