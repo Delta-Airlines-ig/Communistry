@@ -11,7 +11,7 @@ targetGround:true
 drawCell:false
 circleTarget:true
 outlines:false
-targetair:false
+targetAir:false
 legLength:0
 size:2
 hitsize:20
