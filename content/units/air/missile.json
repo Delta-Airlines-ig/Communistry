@@ -1,4 +1,4 @@
-type: MissileUnitType
+type: flying
 name: Cruise missile
 aiController: SuicideAI
 weapons: [
