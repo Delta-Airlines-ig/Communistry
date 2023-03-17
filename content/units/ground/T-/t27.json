@@ -9,7 +9,7 @@ rotateSpeed: 6
 engineSize:0
 targetGround:true
 drawCell:false
-targetair:false
+targetAir:false
 circleTarget:true
 outlines:false
 legLength:0
