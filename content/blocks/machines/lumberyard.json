@@ -1,0 +1,11 @@
+type: WallCrafter
+name: Lumberyard
+category: production
+size: 2
+scaledHealth: 20
+drillTime: 180
+output: wood
+
+requirements: [
+    stonebrick/20
+  ]
