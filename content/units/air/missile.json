@@ -1,5 +1,6 @@
 type: MissileUnitType
 name: missile
+aiController: SuicideAI
 weapons: [
     {
 	  name: on board explosives
@@ -40,4 +41,4 @@ onTitleScreen:true
 outlines:false
 circleTarget:false
 lowAltitude:true
-hovering:true
+hovering:false
