@@ -4,7 +4,7 @@ noiseColor: a6a6a6
 sizeMax: 25
 sizeMin: 1
 density: 3000
-status: Communistry-blizzard
+status: blizzard
 useWindVector: true
 drawNoise: true
 opacityMultiplier: 0.85
