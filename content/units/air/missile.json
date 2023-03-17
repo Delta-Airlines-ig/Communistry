@@ -1,4 +1,4 @@
-type: flying
+type: MissileUnitType
 name: missile
 weapons: [
     {
