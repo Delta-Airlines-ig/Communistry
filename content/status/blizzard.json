@@ -1,0 +1,8 @@
+name: blizzard
+damage: 1
+speedMultiplier: 0.3
+healthMultiplier: 0.9
+buildSpeedMultiplier: 0.75
+transitionDamage: 256
+affinities: [freezing]
+opposites: [burning, melting]
