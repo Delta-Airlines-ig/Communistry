@@ -8,7 +8,7 @@ accel: 0.5
 rotateSpeed: 6
 engineSize:0
 targetGround:true
-targetair:false
+targetAir:false
 drawCell:false
 circleTarget:true
 outlines:false
