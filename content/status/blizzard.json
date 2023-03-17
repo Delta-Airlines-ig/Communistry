@@ -4,5 +4,7 @@ speedMultiplier: 0.3
 healthMultiplier: 0.9
 reloadMultiplier: 0.6
 buildSpeedMultiplier: 0.75
-affinities: [freezing]
+transitionDamage:50
+affinities: [freezing, wet]
 opposites: [burning, melting]
+color: ffffff
