@@ -9,4 +9,4 @@ also if you want to contact me for some reason (help with spriting?) then my dis
 
 also also this is my first mod so dont expect anything professional or whatever
 
-
+currently trying to figure out how to script by throwing random scripts from other mods at mine (notably aeyama with the wood)
