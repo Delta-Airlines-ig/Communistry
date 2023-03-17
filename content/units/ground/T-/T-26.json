@@ -11,6 +11,7 @@ retreatPercent: 0.70
 targetGround:true
 drawCell:false
 circleTarget:true
+targetair:false
 outlines:false
 legLength:0
 size:2
