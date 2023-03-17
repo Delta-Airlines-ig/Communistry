@@ -1,7 +1,7 @@
 type: ParticleWeather
 color: dedede
 noiseColor: a6a6a6
-particleRegion: particle
+particleRegion: rand
 sizeMax: 25
 sizeMin: 1
 density: 3000
