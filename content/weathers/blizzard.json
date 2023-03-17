@@ -1,9 +1,9 @@
 type: ParticleWeather
 color: dedede
 noiseColor: a6a6a6
-sizeMax: 25
-sizeMin: 1
-density: 3000
+sizeMax: 10
+sizeMin: 5
+density: 5000
 status: blizzard
 useWindVector: true
 drawNoise: true
@@ -11,6 +11,6 @@ opacityMultiplier: 0.85
 baseSpeed: 6.1
 //sound: blizzardwind
 soundVol: 0.65
-force: 0.5
-yspeed: -5
-xspeed: 5
+force: 10.5
+yspeed: -15
+xspeed: 15
