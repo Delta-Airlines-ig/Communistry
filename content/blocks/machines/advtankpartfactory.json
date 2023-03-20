@@ -1,0 +1,28 @@
+type: genericCrafter
+name: advanced tank part factory
+craftTime: 70
+size: 2
+hasPower: true
+hasLiquids: false
+consumes: {
+  items: {
+    items: [
+      steel/7
+      mechanicalparts/5
+      copper/3
+      steelplate/5
+      electronics/1
+    ]
+  }
+  power: 1.25
+}
+craftEffect: smokeCloud
+requirements: [
+  iron/30
+  stonebrick/25
+  steel/35
+  electronics/10
+
+]
+category: crafting
+outputItem: advancedtankpart/2
