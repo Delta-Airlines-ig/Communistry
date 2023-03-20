@@ -12,6 +12,8 @@ playerControllable: false
 physics: false
 createWreck: true
 createScorch: false
+trailLength:50
+trailColor:bbbbbb
 weapons: [
     {
           mirror: false
@@ -21,12 +23,12 @@ weapons: [
           x: 0
           y: 0
           despawnHit: true
-          despawnEffect: impactReactorExplosion
+          despawnEffect: blastExplosion
           
           bullet:{
         type: BombBulletType
         splashDamageRadius: 100
-        splashDamage: 2075
+        splashDamage: 300
         instantDisappear: true
         killShooter: true
         hittable: false
