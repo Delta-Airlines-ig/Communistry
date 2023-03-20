@@ -10,8 +10,8 @@ drag: 0.3
 useUnitCap: false
 playerControllable: false
 physics: false
-createWreck: true
-createScorch: false
+createWreck: false
+createScorch: true
 trailLength:50
 trailColor:bbbbbb
 weapons: [
