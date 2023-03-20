@@ -2,8 +2,8 @@ type: ParticleWeather
 name: High wind
 color: dedede
 noiseColor: a6a6a6
-sizeMax: 1
-sizeMin: 0.25
+sizeMax: 3
+sizeMin: 1
 density: 100
 useWindVector: true
 drawNoise: true
