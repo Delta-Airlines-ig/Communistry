@@ -1,0 +1,27 @@
+type: genericCrafter
+name: Electronics factory
+craftTime: 35
+size: 2
+hasPower: true
+hasLiquids: false
+consumes: {
+  items: {
+    items: [
+      plastanium/3
+      copper/2
+      silicon/2
+    ]
+  }
+  power: 0.5
+}
+craftEffect: smokeCloud
+requirements: [
+  iron/30
+  stonebrick/15
+  silicon/15
+  mechanicalparts/25
+  steel/50
+
+]
+category: crafting
+outputItem: electronics/2
