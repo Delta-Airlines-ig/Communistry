@@ -9,11 +9,8 @@ plans: [
     unit: T-34
     time: 360
     requirements: [
-      steel/75
+      tankparts/10
       solder/2
-	  copper/15
-	  mechanicalparts/36
-	  steelplate/10
 	  supplies/5
     ]
   }
@@ -21,10 +18,8 @@ plans: [
     unit: T-26
     time: 240
     requirements: [
-      steel/75
       solder/1
-	  mechanicalparts/32
-	  steelplate/10
+	  tankparts/12
 	  supplies/15
     ]
   }
@@ -33,9 +28,7 @@ plans: [
     time: 720
     requirements: [
       solder/3
-      steel/185
-	  mechanicalparts/68
-	  steelplate/70
+      tankparts/20
 	  supplies/25
     ]
   }
@@ -44,9 +37,7 @@ plans: [
     time: 720
     requirements: [
       solder/3
-      steel/180
-	  mechanicalparts/68
-	  steelplate/70
+      tankparts/25
 	  supplies/25
     ]
   }
@@ -55,9 +46,7 @@ plans: [
     time: 920
     requirements: [
       solder/5
-      steel/200
-	  mechanicalparts/75
-	  steelplate/90
+      tankparts/35
 	  supplies/35
     ]
   }
@@ -66,9 +55,7 @@ plans: [
     time: 1050
     requirements: [
       solder/7
-      steel/285
-	  mechanicalparts/90
-	  steelplate/125
+      advancedtankparts/40
 	  supplies/45
     ]
   }
