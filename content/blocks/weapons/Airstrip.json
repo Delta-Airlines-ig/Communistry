@@ -9,45 +9,35 @@ plans: [
     unit: Yakovlev Yak-1
     time: 60
     requirements: [
-      steel/10
-	  copper/3
-	  mechanicalparts/5
+      planeparts/2
     ]
   }
  {
     unit: Yakovlev Yak-3
     time: 70
     requirements: [
-      steel/15
-	  copper/5
-	  mechanicalparts/6
+	planeparts/5
     ]
   }
    {
     unit: Yakovlev Yak-15
     time: 120
     requirements: [
-      steel/25
-	  copper/10
-	  mechanicalparts/12
+      planeparts/7
     ]
   }
    {
     unit: Yakovlev Yak-17
     time: 140
     requirements: [
-      steel/35
-	  copper/15
-	  mechanicalparts/15
+	planeparts/15
     ]
   }
    {
     unit: Yakovlev Yak-38
     time: 240
     requirements: [
-      steel/50
-	  copper/25
-	  mechanicalparts/20
+	advancedplaneparts/25
     ]
   }
 ]
