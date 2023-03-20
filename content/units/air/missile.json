@@ -1,44 +1,37 @@
-type: flying
+type: missile
+controller: MissileAI
 name: Cruise missile
-//aiController: SuicideAI
-weapons: [
-    {
-	  name: on board explosives
-    x: 1
-    y: 0
-    recoil: 0
-    reload: 1
-    shake: 1
-	shotDelay: 10
-    bullet: {
-	type:ExplosionBulletType
-	speed: 1
-	damage: 300
-    	shootEffect: shootBig
-	collideTerrain:false
-	lifetime:5
-    	killShooter:true
-    	splashDamage:100
-    	makeFire:true
-    	incendAmount:2
-    	splashDamageRadius:75
-    	incendSpread:30
-    }
-  }
-]
+rotateSpeed: 0.22
+missileAccelTime: 1
 health: 75
 speed: 15
 flying: true
 drag: 0.3
-accel: 0.5
-rotateSpeed: 10
-engineSize:0
-omniMovement: false
-targetAir: false
-targetGround:true
-drawCell:false
-onTitleScreen:true
-outlines:false
-circleTarget:false
-lowAltitude:true
-hovering:false
+useUnitCap: false
+playerControllable: false
+physics: false
+createWreck: true
+createScorch: false
+weapons: [
+    {
+          mirror: false
+          reload: 450
+          shootOnDeath: true
+          shootEffect: none
+          x: 0
+          y: 0
+          despawnHit: true
+          despawnEffect: impactReactorExplosion
+          
+          bullet:{
+        type: BombBulletType
+        splashDamageRadius: 100
+        splashDamage: 2075
+        instantDisappear: true
+        killShooter: true
+        hittable: false
+        collidesAir: true
+        }
+    }
+]
+
