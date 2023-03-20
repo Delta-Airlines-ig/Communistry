@@ -1,0 +1,26 @@
+type: genericCrafter
+name: plane part factory
+craftTime: 50
+size: 2
+hasPower: true
+hasLiquids: false
+consumes: {
+  items: {
+    items: [
+      steel/2
+      mechanicalparts/4
+      copper/2
+      steelplate/2
+    ]
+  }
+  power: 1
+}
+craftEffect: smokeCloud
+requirements: [
+  iron/30
+  stonebrick/15
+  steel/15
+
+]
+category: crafting
+outputItem: planeparts/2
