@@ -37,6 +37,7 @@ output: {
 }
 craftTime: 10
 }
+]
 craftEffect: smokeCloud
 requirements: [
   stonebrick/75
