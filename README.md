@@ -13,4 +13,4 @@ currently trying to figure out how to script by throwing random scripts from oth
 
 
 # Now depends on multicrafterlib
-https://github.com/liplum/MultiCrafterLib
+get it here: https://github.com/liplum/MultiCrafterLib
