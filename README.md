@@ -12,5 +12,5 @@ also also this is my first mod so dont expect anything professional or whatever
 currently trying to figure out how to script by throwing random scripts from other mods at mine (notably aeyama with the wood)
 
 
-# Now depends on multicrafterlib
+# Now depends on MultiCrafterLib
 get it here: https://github.com/liplum/MultiCrafterLib
