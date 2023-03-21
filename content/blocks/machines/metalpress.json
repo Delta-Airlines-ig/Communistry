@@ -1,0 +1,47 @@
+type:multicraft.MultiCrafter
+name:metal press
+menu: Simple
+size: 2
+hasPower: true
+hasLiquids: false
+recipes:
+[
+  // steel
+  {
+  input: {
+    items: [
+      Communistry-steel/2
+    ]
+    power: 0.5
+  }
+output: {
+  items:[
+  Communistry-steelplate/1
+  ]
+}
+craftTime: 10
+}
+// aluminum
+{
+  input: {
+    items: [
+      Communistry-aluminum/2
+    ]
+    power: 0.5
+  }
+output: {
+  items:[
+  Communistry-aluminumplate/1
+  ]
+}
+craftTime: 10
+}
+craftEffect: smokeCloud
+requirements: [
+  stonebrick/75
+  lead/50
+  iron/150
+  steel/50
+
+]
+category: crafting
