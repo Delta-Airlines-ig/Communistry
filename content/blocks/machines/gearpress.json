@@ -11,14 +11,14 @@ recipes:
   {
   input: {
     items: [
-      Communistry-steel/3
-      Communistry-steelplate/1
+      communistry-steel/3
+      communistry-steelplate/1
     ]
     power: 0.5
   }
 output: {
   items:[
-  Communistry-mechanicalparts/2
+  communistry-mechanicalparts/2
   ]
 }
 craftTime: 20
@@ -27,14 +27,14 @@ craftTime: 20
 {
   input: {
     items: [
-      Communistry-aluminum/3
-      Communistry-aluminumplate/1
+      communistry-aluminum/3
+      communistry-aluminumplate/1
     ]
     power: 0.5
   }
 output: {
   items:[
-  Communistry-ligmechanicalparts/2
+  communistry-ligmechanicalparts/2
   ]
 }
 craftTime: 20
