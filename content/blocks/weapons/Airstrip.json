@@ -2,7 +2,7 @@ type: UnitFactory
 name:Airstrip
 size: 3
 consumes: {
-  power: 50
+  power: 5
 }
 plans: [
   {
