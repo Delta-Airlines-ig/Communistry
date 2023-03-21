@@ -1,5 +1,7 @@
 type: multicraft.MultiCrafter
+//cancer code here, it works though...
 name: vehicle part factory
+menu: Simple
 size: 2
 hasPower: true
 hasLiquids: false
