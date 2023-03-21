@@ -1,6 +1,7 @@
 type:multicraft.MultiCrafter
 name:metal press
 menu: Simple
+health:500
 size: 2
 hasPower: true
 hasLiquids: false
