@@ -50,7 +50,7 @@ craftTime: 70
   input: {
     items: [
       Communistry-aluminum/2
-      communistry-mechanicalparts/4
+      communistry-ligmechanicalparts/4
       copper/2
       communistry-aluminumplate/2
     ]
@@ -68,7 +68,7 @@ craftTime: 50
   input: {
     items: [
       Communistry-aluminum/4
-      Communistry-mechanicalparts/6
+      Communistry-ligmechanicalparts/6
       copper/2
       Communistry-aluminumplate/6
       Communistry-electronics/2
@@ -91,6 +91,7 @@ requirements: [
   steel/35
   steelplate/25
   copper/50
+  mechanicalparts/25
 
 ]
 category: crafting
