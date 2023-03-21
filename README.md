@@ -14,3 +14,7 @@ currently trying to figure out how to script by throwing random scripts from oth
 
 # Now depends on MultiCrafterLib
 get it here: https://github.com/liplum/MultiCrafterLib
+
+# Example
+![20230321171852_1](https://user-images.githubusercontent.com/127794765/226743329-6819de23-3e0c-47c5-af25-49e66a3cbb0c.jpg)
+this is literally to get the most basic tank... you absolutley need alot of space to do anything with this mod.
