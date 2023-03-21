@@ -20,7 +20,7 @@ recipes:
   }
 output: {
   items:[
-  communistry-mechanicalparts/2
+      communistry-mechanicalparts/2
   ]
 }
 craftTime: 20
@@ -36,7 +36,7 @@ craftTime: 20
   }
 output: {
   items:[
-  communistry-ligmechanicalparts/2
+      communistry-ligmechanicalparts/2
   ]
 }
 craftTime: 20
