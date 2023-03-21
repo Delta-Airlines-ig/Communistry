@@ -23,7 +23,7 @@ output: {
       communistry-mechanicalparts/2
   ]
 }
-craftTime: 20
+craftTime: 10
 }
 // light mechanical parts
 {
@@ -39,7 +39,7 @@ output: {
       communistry-ligmechanicalparts/2
   ]
 }
-craftTime: 20
+craftTime: 10
 }
 ]
 craftEffect: smokeCloud
