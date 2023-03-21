@@ -1,5 +1,6 @@
 type: multicraft.MultiCrafter
 name: gear press
+health:500
 menu: Simple
 size: 2
 hasPower: true
