@@ -1,0 +1,92 @@
+type: multicraft.MultiCrafter
+name: vehicle part factory
+size: 2
+hasPower: true
+hasLiquids: false
+recipes:
+[
+  //reg tank part crafting
+  {
+  input: {
+    items: [
+      Communistry-steel/5
+      Communistry-mechanicalparts/3
+      copper/2
+      Communistry-steelplate/1
+    ]
+    power: 1
+  }
+output: {
+  items:[
+  Communistry-tankparts/2
+  ]
+}
+craftTime: 50
+}
+// advanced tank part factory
+{
+  input: {
+    items: [
+      Communistry-steel/7
+      Communistry-mechanicalparts/5
+      copper/3
+      Communistry-steelplate/5
+      Communistry-electronics/1
+    ]
+    power: 1.25
+  }
+output: {
+  items:[
+  Communistry-advancedtankparts/2
+  ]
+}
+craftTime: 70
+}
+// reg plane part crafting
+{
+  input: {
+    items: [
+      Communistry-steel/2
+      communistry-mechanicalparts/4
+      copper/2
+      communistry-steelplate/2
+    ]
+    power: 1
+  }
+output: {
+  items:[
+  Communistry-planeparts/2
+  ]
+}
+craftTime: 50
+}
+// advanced plane part crafting
+{
+  input: {
+    items: [
+      Communistry-steel/4
+      Communistry-mechanicalparts/6
+      copper/2
+      Communistry-steelplate/6
+      Communistry-electronics/2
+    ]
+    power: 1.25
+  }
+output: {
+  items:[
+  Communistry-advancedplaneparts/2
+  ]
+}
+craftTime: 75
+}
+]
+
+craftEffect: smokeCloud
+requirements: [
+  iron/30
+  stonebrick/25
+  steel/35
+  electronics/10
+
+]
+category: crafting
