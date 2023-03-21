@@ -6,6 +6,7 @@ menu: Simple
 size: 2
 hasPower: true
 hasLiquids: false
+//scam
 recipes:
 [
   // heavy mechanical parts
