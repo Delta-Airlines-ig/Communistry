@@ -1,6 +1,7 @@
 type: multicraft.MultiCrafter
 //cancer code here, it works though...
 name: vehicle part factory
+health:500
 menu: Simple
 size: 2
 hasPower: true
@@ -12,16 +13,16 @@ recipes:
   {
   input: {
     items: [
-      Communistry-steel/5
-      Communistry-mechanicalparts/3
+      communistry-steel/5
+      communistry-mechanicalparts/3
       copper/2
-      Communistry-steelplate/1
+      communistry-steelplate/1
     ]
     power: 1
   }
 output: {
   items:[
-  Communistry-tankparts/2
+  communistry-tankparts/2
   ]
 }
 craftTime: 50
@@ -30,17 +31,17 @@ craftTime: 50
 {
   input: {
     items: [
-      Communistry-steel/7
-      Communistry-mechanicalparts/5
+      communistry-steel/7
+      communistry-mechanicalparts/5
       copper/3
-      Communistry-steelplate/5
-      Communistry-electronics/1
+      communistry-steelplate/5
+      communistry-electronics/1
     ]
     power: 1.25
   }
 output: {
   items:[
-  Communistry-advancedtankparts/2
+  communistry-advancedtankparts/2
   ]
 }
 craftTime: 70
@@ -49,7 +50,7 @@ craftTime: 70
 {
   input: {
     items: [
-      Communistry-aluminum/2
+      communistry-aluminum/2
       communistry-ligmechanicalparts/4
       copper/2
       communistry-aluminumplate/2
@@ -58,7 +59,7 @@ craftTime: 70
   }
 output: {
   items:[
-  Communistry-planeparts/2
+  communistry-planeparts/2
   ]
 }
 craftTime: 50
@@ -67,17 +68,17 @@ craftTime: 50
 {
   input: {
     items: [
-      Communistry-aluminum/4
-      Communistry-ligmechanicalparts/6
+      communistry-aluminum/4
+      communistry-ligmechanicalparts/6
       copper/2
-      Communistry-aluminumplate/6
-      Communistry-electronics/2
+      communistry-aluminumplate/6
+      communistry-electronics/2
     ]
     power: 1.25
   }
 output: {
   items:[
-  Communistry-advancedplaneparts/2
+  communistry-advancedplaneparts/2
   ]
 }
 craftTime: 75
