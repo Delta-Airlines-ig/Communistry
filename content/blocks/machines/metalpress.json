@@ -10,13 +10,13 @@ recipes:
   {
   input: {
     items: [
-      Communistry-steel/2
+      communistry-steel/2
     ]
     power: 0.5
   }
 output: {
   items:[
-  Communistry-steelplate/1
+  communistry-steelplate/1
   ]
 }
 craftTime: 10
@@ -25,13 +25,13 @@ craftTime: 10
 {
   input: {
     items: [
-      Communistry-aluminum/2
+      communistry-aluminum/2
     ]
     power: 0.5
   }
 output: {
   items:[
-  Communistry-aluminumplate/1
+  communistry-aluminumplate/1
   ]
 }
 craftTime: 10
