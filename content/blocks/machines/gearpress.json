@@ -41,6 +41,7 @@ output: {
 }
 craftTime: 20
 }
+]
 craftEffect: smokeCloud
 requirements: [
   iron/25
