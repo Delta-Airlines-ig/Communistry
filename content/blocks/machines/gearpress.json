@@ -1,17 +1,43 @@
-type: genericCrafter
+type: multicraft.MultiCrafter
 name: gear press
+menu: Simple
 craftTime: 60
 size: 2
 hasPower: true
 hasLiquids: false
-consumes: {
-  items: {
+recipes:
+[
+  // heavy mechanical parts
+  {
+  input: {
     items: [
-      steel/3
-      steelplate/1
+      Communistry-steel/3
+      Communistry-steelplate/1
     ]
+    power: 0.5
   }
-  power: 2
+output: {
+  items:[
+  Communistry-mechanicalparts/2
+  ]
+}
+craftTime: 20
+}
+// light mechanical parts
+{
+  input: {
+    items: [
+      Communistry-aluminum/3
+      Communistry-aluminumplate/1
+    ]
+    power: 0.5
+  }
+output: {
+  items:[
+  Communistry-ligmechanicalparts/2
+  ]
+}
+craftTime: 20
 }
 craftEffect: smokeCloud
 requirements: [
@@ -20,4 +46,3 @@ requirements: [
   steel/10
 ]
 category: crafting
-outputItem: mechanicalparts/2
