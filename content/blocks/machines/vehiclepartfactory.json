@@ -5,6 +5,7 @@ menu: Simple
 size: 2
 hasPower: true
 hasLiquids: false
+//plane parts use aluminum instead of steel now
 recipes:
 [
   //reg tank part crafting
@@ -86,9 +87,10 @@ craftTime: 75
 craftEffect: smokeCloud
 requirements: [
   iron/30
-  stonebrick/25
+  stonebrick/75
   steel/35
-  electronics/10
+  steelplate/25
+  copper/50
 
 ]
 category: crafting
