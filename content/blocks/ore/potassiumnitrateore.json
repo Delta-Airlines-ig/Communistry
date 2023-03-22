@@ -4,3 +4,4 @@ itemDrop: potassiumnitrate
 playerUnmineable: false
 needsSurface:true
 oreDefault:true
+color:f2f2f2
