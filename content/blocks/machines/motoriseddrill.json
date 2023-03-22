@@ -1,8 +1,9 @@
 type: Drill
 name: Motorised drill
+discription: a decently fast drill, about as fast as the laser drill but requires no power.
 tier: 6
 health: 750
-drillTime: 60
+drillTime: 40
 size: 2
 hasPower: true
 rotateSpeed: 5
