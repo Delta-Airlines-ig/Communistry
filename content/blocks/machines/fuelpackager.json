@@ -1,0 +1,49 @@
+type: multicraft.MultiCrafter
+//only here because idk how to make units require liquids
+name: fuel packager
+health:500
+menu: Simple
+size: 2
+hasPower: true
+hasLiquids: true
+//scam
+recipes:
+[
+  // plane fuel/gasoline
+  {
+  input: {
+    liquids: [
+      communistry-gasoline/5
+    ]
+    power: 0.25
+  }
+output: {
+  items:[
+      communistry-airplanefuel/2
+  ]
+}
+craftTime: 10
+}
+// tank fuel/diesel
+{
+  input: {
+    liquids: [
+      communistry-diesel/5
+    ]
+    power: 0.25
+  }
+output: {
+  items:[
+      communistry-tankfuel/2
+  ]
+}
+craftTime: 10
+}
+]
+craftEffect: smokeCloud
+requirements: [
+  iron/25
+  stonebrick/8
+  steel/10
+]
+category: crafting
