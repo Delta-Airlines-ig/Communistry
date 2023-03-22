@@ -4,3 +4,4 @@ itemDrop: sulfur
 playerUnmineable: false
 needsSurface:true
 oreDefault:true
+color:cfb600
