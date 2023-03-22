@@ -8,9 +8,9 @@ consumes: {
   items: {
     items: [
       weapons/2
-	  ammunition/10
-	  largeammunition/5
-	  mechanicalparts/5
+	  ammunition/5
+	  largeammunition/3
+	  mechanicalparts/3
 	  
     ]
   }
