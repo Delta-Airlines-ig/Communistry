@@ -2,13 +2,14 @@ type: UnitFactory
 name:Airstrip
 size: 3
 consumes: {
-  power: 5
+  power: 4
 }
 plans: [
   {
     unit: Yakovlev Yak-1
     time: 60
     requirements: [
+	  gasoline/5
       planeparts/2
     ]
   }
