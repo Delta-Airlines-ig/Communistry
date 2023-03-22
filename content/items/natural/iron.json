@@ -1,6 +1,7 @@
 type: item
 name: iron
 description: heavy but durable material, used for making steel and consructing many things.
+color:c4c4c4
 research: {
   parent: copper
 }
