@@ -9,7 +9,7 @@ plans: [
     unit: Yakovlev Yak-1
     time: 60
     requirements: [
-	  gasoline/5
+	  aircraftfuel/5
       planeparts/2
     ]
   }
@@ -17,6 +17,7 @@ plans: [
     unit: Yakovlev Yak-3
     time: 70
     requirements: [
+	 aircraftfuel/5
 	planeparts/5
     ]
   }
@@ -24,6 +25,7 @@ plans: [
     unit: Yakovlev Yak-15
     time: 120
     requirements: [
+	   aircraftfuel/7
       planeparts/7
     ]
   }
@@ -31,6 +33,7 @@ plans: [
     unit: Yakovlev Yak-17
     time: 140
     requirements: [
+	   aircraftfuel/10
 	planeparts/15
     ]
   }
@@ -38,6 +41,7 @@ plans: [
     unit: Yakovlev Yak-38
     time: 240
     requirements: [
+	   aircraftfuel/15
 	advancedplaneparts/25
     ]
   }
