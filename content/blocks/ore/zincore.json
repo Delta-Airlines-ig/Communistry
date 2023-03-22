@@ -4,3 +4,4 @@ itemDrop: zinc
 playerUnmineable: false
 needsSurface:true
 oreDefault:true
+color:c2c2c2
