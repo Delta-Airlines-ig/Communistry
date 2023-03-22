@@ -1,0 +1,27 @@
+type: genericCrafter
+name: oil refinery
+craftTime: 50
+size: 2
+hasPower: true
+hasLiquids: true
+consumes: {
+  liquids: {
+    liquids: [
+oil/10
+    ]
+  }
+  power: 1
+}
+craftEffect: smokeCloud
+requirements: [
+  iron/100
+  stonebrick/25
+  mechanicalparts/25
+  steelplate/50
+
+]
+category: crafting
+outputLiquids: [
+  gasoline/5
+  diesel/5
+  ]
