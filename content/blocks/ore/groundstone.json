@@ -4,3 +4,4 @@ itemDrop: stone
 playerUnmineable: false
 needsSurface:true
 oreDefault:true
+color:6b6b6b
