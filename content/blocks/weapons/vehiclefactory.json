@@ -11,7 +11,7 @@ plans: [
     requirements: [
       tankparts/10
       solder/2
-	  supplies/5
+	  supplies/3
     ]
   }
   {
@@ -20,7 +20,7 @@ plans: [
     requirements: [
       solder/1
 	  tankparts/12
-	  supplies/15
+	  supplies/7
     ]
   }
   {
@@ -29,7 +29,7 @@ plans: [
     requirements: [
       solder/3
       tankparts/20
-	  supplies/25
+	  supplies/15
     ]
   }
   {
@@ -38,7 +38,7 @@ plans: [
     requirements: [
       solder/3
       tankparts/25
-	  supplies/25
+	  supplies/20
     ]
   }
     {
@@ -47,7 +47,7 @@ plans: [
     requirements: [
       solder/5
       tankparts/35
-	  supplies/35
+	  supplies/30
     ]
   }
     {
