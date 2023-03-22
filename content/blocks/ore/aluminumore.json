@@ -4,3 +4,4 @@ itemDrop: aluminum
 playerUnmineable: false
 needsSurface:true
 oreDefault:true
+color:d9d9d9
