@@ -17,4 +17,4 @@ get it here: https://github.com/liplum/MultiCrafterLib
 
 # Example
 ![20230321171852_1](https://user-images.githubusercontent.com/127794765/226743329-6819de23-3e0c-47c5-af25-49e66a3cbb0c.jpg)
-this is literally to get the most basic tank... you absolutley need alot of space to do anything with this mod.
+this is literally to get the most basic tank... you absolutley need alot of space to do anything with this mod. (also this is for v0.5.0)
