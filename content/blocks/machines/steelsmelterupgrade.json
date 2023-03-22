@@ -18,7 +18,7 @@ requirements: [
   stonebrick/120
   lead/80
   steel/50
-  mechanicalparts/5
+  mechanicalparts/15
 
 ]
 category: crafting
