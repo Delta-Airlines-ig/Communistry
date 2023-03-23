@@ -13,7 +13,7 @@ consumes: {
   }
   power: 2.5
 }
-craftEffect: fallsmoke
+craftEffect: fallSmoke
 requirements: [
   stonebrick/100
   lead/50
