@@ -6,3 +6,4 @@ version: "1.0"
 minGameVersion: "136"
 dependencies: ["multi-crafter"]
 hidden: false
+main: scripts/main.js
