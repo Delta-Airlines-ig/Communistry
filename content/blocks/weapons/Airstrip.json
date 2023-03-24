@@ -1,5 +1,6 @@
 type: UnitFactory
 name:Airstrip
+placeEffect: smokeCloud
 size: 3
 consumes: {
   power: 4
