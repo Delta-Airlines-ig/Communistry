@@ -1,5 +1,6 @@
 type: ItemTurret
 name: ZU-23-2 AntiAircraft AutoTurret
+placeEffect: smokeCloud
 targetGround: false
 outlines:false
 health: 1750
