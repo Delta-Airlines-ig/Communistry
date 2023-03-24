@@ -8,3 +8,4 @@ requirements: [
   mechanicalparts/2
 ] 
 category: distribution
+placeEffect: smokeCloud
