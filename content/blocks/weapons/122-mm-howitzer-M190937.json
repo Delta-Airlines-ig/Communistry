@@ -1,5 +1,6 @@
 type: ItemTurret
 name: 122mm howitzer m1909/37
+placeEffect: smokeCloud
 targetGround: true
 outlines:false
 health: 1000
