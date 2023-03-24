@@ -86,6 +86,7 @@ craftTime: 75
 ]
 
 craftEffect: smokeCloud
+placeEffect: smokeCloud
 requirements: [
   iron/30
   stonebrick/75
