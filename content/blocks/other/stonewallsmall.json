@@ -9,3 +9,4 @@ requirements: [
 destructible:true
 buildCostMultiplier:4
 chanceDeflect:0
+placeEffect: smokeCloud
