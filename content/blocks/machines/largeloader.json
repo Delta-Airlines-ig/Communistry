@@ -1,5 +1,6 @@
 type: genericCrafter
 name: large bullet loader
+placeEffect: smokeCloud
 craftTime: 30
 size: 2
 hasPower: true
