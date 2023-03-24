@@ -74,3 +74,4 @@ requirements: [
   steelplate/50
 ]
 category: units
+placeEffect: smokeCloud
