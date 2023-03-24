@@ -7,6 +7,7 @@ inaccuracy: 0
 tendrils:0
 tileDamage:1000
 shots: 1
+placeEffect: smokeCloud
 recoilAmount: 10
 shootCone: 25
 rotateSpeed: 1000
