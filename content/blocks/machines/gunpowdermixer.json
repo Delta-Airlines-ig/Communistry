@@ -2,6 +2,7 @@ type: genericCrafter
 name: gunpowder mixer
 craftTime: 20
 size: 1
+placeEffect: smokeCloud
 hasPower: true
 hasLiquids: false
 consumes: {
