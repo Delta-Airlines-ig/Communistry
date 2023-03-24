@@ -1,6 +1,6 @@
 type: Drill
 name: Motorised drill
-discription: a decently fast drill, about as fast as the laser drill but requires no power.
+discription: a decently fast drill, about as fast as the laser drill but requires no power. nah jk its op asf idk why but its useful for late game
 tier: 6
 health: 750
 drillTime: 60
@@ -9,6 +9,7 @@ hasPower: true
 rotateSpeed: 5
 hasLiquids: false
 craftEffect: smokeCloud
+placeEffect: smokeCloud
 requirements: [
   iron/100
   stonebrick/25
