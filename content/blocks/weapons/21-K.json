@@ -1,6 +1,7 @@
 type: ItemTurret
 name: 21-K AntiAirctraft Gun
 targetGround: false
+placeEffect: smokeCloud
 outlines:false
 health: 2000
 size: 2
