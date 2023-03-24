@@ -7,5 +7,6 @@ requirements: [
   steel/1
 ]
 category: distribution
-speed: 0.13
-displayedSpeed: 20
+placeEffect: smokeCloud
+speed: 0.12
+displayedSpeed: 22
