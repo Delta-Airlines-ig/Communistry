@@ -1,5 +1,6 @@
 type: flying
 name: Yakovlev Yak-1
+controller: FlyingAI
 weapons: [
   {
 	  name: 20mm cannon
