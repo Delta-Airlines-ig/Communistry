@@ -1,6 +1,7 @@
 type: UnitFactory
 name:training grounds
 size: 2
+placeEffect: smokeCloud
 consumes: {
   power: 5
 }
