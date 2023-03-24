@@ -4,6 +4,7 @@ craftTime: 20
 size: 2
 hasPower: true
 hasLiquids: false
+placeEffect: smokeCloud
 consumes: {
   items: {
     items: [
