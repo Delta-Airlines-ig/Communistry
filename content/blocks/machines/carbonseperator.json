@@ -2,6 +2,7 @@ type: genericCrafter
 name: carbon seperator
 craftTime: 10
 size: 2
+placeEffect: smokeCloud
 hasPower: true
 hasLiquids: false
 consumes: {
