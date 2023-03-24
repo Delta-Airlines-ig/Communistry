@@ -2,6 +2,7 @@ type: ItemTurret
 name: M1930 1-K AntiTank gun
 targetGround: true
 outlines:false
+placeEffect: smokeCloud
 health: 750
 size: 2
 inaccuracy: 5
