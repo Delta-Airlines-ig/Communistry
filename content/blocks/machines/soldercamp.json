@@ -1,5 +1,6 @@
 type: genericCrafter
 name:soviet military training camp
+placeEffect: smokeCloud
 craftTime: 120
 size: 2
 hasPower: true
