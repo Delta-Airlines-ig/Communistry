@@ -17,6 +17,7 @@ consumes: {
   power: 2.5
 }
 craftEffect: smokeCloud
+placeEffect: smokeCloud
 requirements: [
   iron/200
   stonebrick/100
