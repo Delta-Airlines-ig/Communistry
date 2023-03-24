@@ -17,7 +17,7 @@ trailColor:bbbbbb
 weapons: [
     {
           mirror: false
-          reload: 450
+          reload: 1
           shootOnDeath: true
           shootEffect: none
           x: 0
