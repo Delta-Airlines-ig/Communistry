@@ -8,5 +8,5 @@ requirements: [
 ]
 category: distribution
 placeEffect: smokeCloud
-speed: 0.12
+speed: 0.14
 displayedSpeed: 22
