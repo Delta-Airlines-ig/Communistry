@@ -7,5 +7,6 @@ requirements: [
 	stonebrick/24
 ]
 destructible:true
+placeEffect: smokeCloud
 buildCostMultiplier:4
 chanceDeflect:0
