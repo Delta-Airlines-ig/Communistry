@@ -1,6 +1,7 @@
 type: genericCrafter
 name: Electronics factory
 craftTime: 35
+placeEffect: smokeCloud
 size: 2
 hasPower: true
 hasLiquids: false
