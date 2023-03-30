@@ -1,4 +1,4 @@
-type:Tank
+type:tank
 name:T-34 tank
 health: 250
 armor:50
@@ -10,7 +10,7 @@ engineSize:0
 targetGround:true
 targetAir:false
 drawCell:false
-circleTarget:true
+circleTarget:false
 outlines:false
 legLength:0
 size:2
