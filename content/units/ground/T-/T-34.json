@@ -23,6 +23,7 @@ weapons: [
     y: 0
     recoil: 2
     reload: 120
+    rotate:true
     shake: 4 
     bullet: {
       type: standardDense
@@ -41,6 +42,7 @@ weapons: [
     recoil: 0
     reload: 10
     shake: 1
+	rotate:true
     bullet: {
       type: standardCopper
       damage: 3
@@ -59,6 +61,7 @@ weapons: [
     reload: 10
     shake: 1
 	shotDelay: 10
+	  rotate:true
     bullet: {
       type: standardCopper
       damage: 2
