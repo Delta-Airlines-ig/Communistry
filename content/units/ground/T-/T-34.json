@@ -1,4 +1,4 @@
-type:tank
+type:Tank
 name:T-34 tank
 health: 250
 armor:50
