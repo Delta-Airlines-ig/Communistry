@@ -1,4 +1,4 @@
-type:mech
+type:tank
 name:T-34 tank
 health: 250
 armor:50
@@ -17,7 +17,7 @@ size:2
 hitsize:20
 weapons: [
   {
-	  name: 76.2mm cannon
+	  name: T-34 turret
     x: 0
     y: 0
     recoil: 2
