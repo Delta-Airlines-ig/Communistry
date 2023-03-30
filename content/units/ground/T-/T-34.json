@@ -17,7 +17,7 @@ size:2
 hitsize:20
 weapons: [
   {
-	  name: T-34 turret
+	  name: T-34-turret
     x: 0
     y: 0
     recoil: 2
