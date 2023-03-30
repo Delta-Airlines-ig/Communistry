@@ -7,6 +7,7 @@ drag: 0.3
 accel: 0.5
 rotateSpeed: 6
 engineSize:0
+rotateMoveFirst:true
 targetGround:true
 targetAir:false
 drawCell:false
