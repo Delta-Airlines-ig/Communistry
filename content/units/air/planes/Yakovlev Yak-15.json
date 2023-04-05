@@ -40,7 +40,7 @@ weapons: [
 health: 150
 speed: 5
 flying: true
-drag: 0.3
+drag: 0
 accel: 0.8
 rotateSpeed: 6
 engineSize:0
